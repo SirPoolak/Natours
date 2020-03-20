@@ -1,2 +1,2 @@
 # Natours
-Traning with Scss
+Traning with Sass
